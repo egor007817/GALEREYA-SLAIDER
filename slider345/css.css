@@ -1,0 +1,134 @@
+body{
+    margin: 5px;
+    background-color: rgb(255, 254, 254);
+}
+h1{
+    text-align: center;
+}
+.ap{
+    margin-top: 90px;
+    width: 190px;
+    height: 290px;
+    border: 1px solid black;
+    background-color: black;
+}
+#imgIc{
+    width: 190px;
+    height: 190px;
+}
+#h33{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+.ap:hover{
+    cursor: pointer;
+}
+h2{
+    text-align: center;
+}
+.ap1{
+    margin-top: 90px;
+    width: 190px;
+    height: 290px;
+    border: 1px solid black;
+    background-color: black;
+    margin-left: 30px;
+}
+.ap1:hover{
+    cursor: pointer;
+}
+.ap2{
+    margin-top: 90px;
+    width: 190px;
+    height: 290px;
+    border: 1px solid black;
+    background-color: black;
+}
+.ap2:hover{
+    cursor: pointer;
+}
+.ap3{
+    margin-top: 90px;
+    width: 190px;
+    height: 290px;
+    border: 1px solid black;
+    background-color: black;
+    margin-left: 30px;
+}
+.ap3:hover{
+    cursor: pointer;
+}
+#img{
+    text-align: center;
+}
+#div4{
+    display: none;
+}
+#but0{
+    width: 170px;
+    height: 40px;
+    background-color: aquamarine;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 100px;
+}
+#but1{
+    margin-top: 100px;
+    width: 170px;
+    height: 40px;
+    background-color: aquamarine;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+#but0:hover{
+    cursor: pointer;
+    background-color: rgb(16, 51, 39);
+}
+#but1:hover{
+    cursor: pointer;
+    background-color: rgb(16, 51, 39);
+}
+#non{
+    display: none;
+}
+.but{
+    width: 170px;
+    height: 40px;
+    background-color: aquamarine;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 800px;
+    display: none;
+}
+.but:hover{
+    cursor: pointer;
+    background-color: rgb(16, 51, 39);
+}
+#i1{
+    display: block;
+}
+.ich{
+    text-align: center;
+    display: none;
+    width: 700px;
+    height: 700px;
+}
+#nazad{
+    margin-left: auto;
+    margin-right: auto;
+    width: 170px;
+    height: 40px;
+    background-color: rgb(206, 35, 140);
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 50px;
+}
+#nazad:hover{
+    cursor: pointer;
+    background-color: rgb(100, 15, 67);
+}
