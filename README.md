@@ -1,0 +1,2 @@
+# GALEREYA-SLAIDER
+слайдер галерея
